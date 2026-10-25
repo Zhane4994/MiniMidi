@@ -55,11 +55,10 @@ I genuinely spend 1.5 hours looking through waveshare's website looking for a bo
 
 Finished PCB!
 
-This hour, i was able to finish up my pcb and add some extra copper and silkscreen! I had some trouble figuring out how to get the copper to show. Turns out i was doing everything right, but I was supposed to set it to the front variant of the layer while i was setting it to the back mask layer.
+This hour, i was able to finish up my pcb and add some extra copper and silkscreen graphics to go along with it!! I had some trouble figuring out how to get the copper to show. Turns out i was doing everything right, but I was supposed to set it to the front variant of the layer while i was setting it to the back mask layer.
 
 ![Screenshot 2026-10-25 at 11.23.09 AM](https://halflife.hackclub-assets.com/sessions/XeRkaS44273mEnU1de0FRDpM9LNCHyTC/287ca80d4aa75df0d29f08c019a0d83264276481cdf9e3b3449b1cfb15912fd8.png)
 
 ![Screenshot 2026-10-25 at 11.23.21 AM](https://halflife.hackclub-assets.com/sessions/XeRkaS44273mEnU1de0FRDpM9LNCHyTC/5494ae3f69e65bdf060fd09d27f6a9c00c072b1e168e0f46fef2341a91014ef6.png)
 
-graphics to go along with it!
 ![Screenshot 2026-10-25 at 12.40.39 AM](https://halflife.hackclub-assets.com/sessions/XeRkaS44273mEnU1de0FRDpM9LNCHyTC/5f4ce8d4c7fa459cccbac922858c4767deed741e0dbef07fffa690362a391461.png)
