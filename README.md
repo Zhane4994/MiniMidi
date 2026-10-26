@@ -8,5 +8,5 @@ This project, I created an Octave Synth, following a tutorial provided by Hack C
 This uses touch capacitive keys to output a MIDI output to my computer. Some issues I faced were getting a devboard that has enough pads for the octave keys.
 I also faced an issue on how to create the exposed copper art on the back!
  
-#Features
-_____________
+# Features
+
