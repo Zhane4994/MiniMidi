@@ -18,4 +18,6 @@ I also faced an issue on how to create the exposed copper art on the back!
  - 2 Bourns Potentiometers
  - Dual Custom Footprints for ESP32 Board
  - Copper Exposed Art
+ - Case
+[Onshape link](https://cad.onshape.com/documents/bcc6a2a10356ec5954083393/w/1139bc4e4e214bda93f027fe/e/de3ed0a024fbd457ad4d6f78?renderMode=0&uiState=6adece5aef25e90a8274034f)
 
