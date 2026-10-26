@@ -13,3 +13,4 @@ I also faced an issue on how to create the exposed copper art on the back!
  - 3 SK6812 Mini E LED's
  - EC11E Rotary Encoder for Volume Control
  - 12 Key/Octave Piano Layout
+ - 3 Gateron Style Hotswap Sockets
