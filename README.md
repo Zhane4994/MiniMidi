@@ -14,3 +14,5 @@ I also faced an issue on how to create the exposed copper art on the back!
  - EC11E Rotary Encoder for Volume Control
  - 12 Key/Octave Piano Layout
  - 3 Gateron Style Hotswap Sockets
+ - 2 Bourns Potentiometers
+ - Dual Custom Footprints for ESP32 Board
