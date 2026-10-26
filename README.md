@@ -16,3 +16,4 @@ I also faced an issue on how to create the exposed copper art on the back!
  - 3 Gateron Style Hotswap Sockets
  - 2 Bourns Potentiometers
  - Dual Custom Footprints for ESP32 Board
+ - Copper Exposed Art
