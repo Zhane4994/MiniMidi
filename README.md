@@ -6,8 +6,8 @@
 
 This project, I created an Octave Synth, following a tutorial provided by Hack Club's Half-Life
 
-This uses touch capacitive keys to output a MIDI output to my computer. Some issues I faced were getting a devboard that has enough pads for the octave keys.
-I also faced an issue on how to create the exposed copper art on the back!
+This uses touch capacitive keys to output a MIDI output to my computer. Some issues I faced were getting a devboard that has enough pads for the octave keys. I fixed this by finding another devboard by waveshare, the ESP32-S3-Tiny which is a dual module component, and I had to create a custom footprint and symbol for it. 
+I also faced an issue on how to create the exposed copper art on the back! I was able to fix this by just changing the slikscreen graphic to the F.Mask layer and flipping it so it's on the back mask layer.
  
 # Features
  - 3 Cherry Style Switches
