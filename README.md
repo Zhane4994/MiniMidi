@@ -17,4 +17,4 @@ I also faced an issue on how to create the exposed copper art on the back!
  - 2 Bourns Potentiometers
  - Dual Custom Footprints for ESP32 Board
  - Copper Exposed Art
-https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FZhane4994%2FMiniMidi
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/<OWNER>/<REPOSITORY>/tree/main/pcb)
