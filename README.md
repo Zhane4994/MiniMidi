@@ -9,4 +9,7 @@ This uses touch capacitive keys to output a MIDI output to my computer. Some iss
 I also faced an issue on how to create the exposed copper art on the back!
  
 # Features
-
+ - 3 Cherry Style Switches
+ - 3 SK6812 Mini E LED's
+ - EC11E Rotary Encoder for Volume Control
+ - 12 Key/Octave Piano Layout
