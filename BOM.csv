@@ -1,6 +1,6 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-SK6812MINI-E,1,AliExpress,$4.89,$4.89,
-Bourns PTA 1543 A10K,1,AliExpress,$2.49,$2.49,
+Item,Qty,Supplier,Cost/item,Total Cost, Link
+SK6812MINI-E,1,AliExpress,$4.89,$4.89, [AliExpress](https://www.aliexpress.com/item/1005005186515165.html?)
+Bourns PTA 1543 A10K,1,AliExpress,$2.49,$2.49, https://www.aliexpress.com/item/1005009272671094.html?spm=a2g0o.cart.0.0.3e2c38da6EOIXn&mp=1&pdp_npi=6%40dis%21USD%21USD+4.97%21USD+2.49%21%21USD+2.49%21%21%21%402101f43b17929509391187296e0ed8%2112000048568049450%21ct%21CA%213076569393%21%211%210%21
 Gateron Milky Yellow Switch,1,AliExpress,$3.39,$3.39,
 EC11E Rotary Encoder,1,AliExpress,$1.19,$1.19,
 ESP32-S3 Tiny,1,AliExpress,$10.08,$10.08,
