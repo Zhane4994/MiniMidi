@@ -1,4 +1,4 @@
-Item,Qty,Supplier,Cost/item,Total Cost,
+Item,Qty,Supplier,Cost/item,Total Cost,link
 SK6812MINI-E,1,https://www.aliexpress.com/item/1005005186515165.html?,$4.89,$4.89,
 Bourns PTA 1543 A10K,1,https://www.aliexpress.com/item/1005009272671094.html?,$2.49,$2.49,
 Gateron Milky Yellow Switch,1,https://www.aliexpress.com/item/1005007039372956.html?,$3.39,$3.39,
@@ -7,5 +7,6 @@ ESP32-S3 Tiny,1,https://www.aliexpress.com/item/1005008063977440.html?,$10.08,$1
 PCB,1,JLCPCB,$3.50,$3.50,
 Hotswap Sockets,1,https://www.aliexpress.com/item/1005007267551458.html?,$4.45,$4.45,
 Bourns PTA 1543 B10K,1,https://www.aliexpress.com/item/1005009272671094.html?,$2.51,$2.51,
-3D Printing,1,Me,0,0,
-Estimated total shipping,,,,$0.00,
+3D Printing,1,Me,$0.00,$0.00,
+Estimated total shipping,1,,$0.00,$0.00,
+Estimated total shipping,1,,,$0.00,
